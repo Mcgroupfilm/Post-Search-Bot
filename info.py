@@ -6,4 +6,4 @@ DATABASE_URI = "mongodb+srv://TVK:TVK@cluster0.rxjrujo.mongodb.net/?retryWrites=
 LOG_CHANNEL  = -1001884373226
 ADMIN        = 1255023013
 CHANNEL      = "NobiDeveloper"
-API_ID       = 
+API_ID       = ""
